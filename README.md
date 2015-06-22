@@ -1,0 +1,2 @@
+# AdvancedOres
+AdvancedOres plugin repository
